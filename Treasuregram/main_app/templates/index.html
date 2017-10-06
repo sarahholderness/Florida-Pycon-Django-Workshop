@@ -15,14 +15,20 @@
       </a>
     </nav>
     <main class="container" role="main">
-      <div class="treasure panel panel-default">
+
 
 
         {% for treasure in treasures %}
+        <div class="treasure panel panel-default">
         <div class="panel-heading">
           <h2 class="panel-title">{{ treasure.name }}</h2>
         </div>
         <div class="panel-body">
+
+          <div class="treasure-photo">
+            <img src="{{ treasure.img_url }}"  />
+          </div>
+
           <table class="treasure-table">
           <tr>
             <th>
@@ -55,10 +61,11 @@
           </tr>
           </table>
           </div>
+          </div>
           {% endfor %}
 
 
-      </div>
+
     </main>
   </body>
 </html>
