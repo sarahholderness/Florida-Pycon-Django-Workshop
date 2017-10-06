@@ -21,6 +21,14 @@ Start a python console by entering `python` on the command line. Then
 
 [Coffee Can](https://s3.amazonaws.com/courseware.codeschool.com/try_django/images/treasuregram-coffee-can.png)
 
+[Arrowhead](https://s3.amazonaws.com/courseware.codeschool.com/try_django/images/treasuregram-arrowhead.png)
+
+[Horse Shoes](https://s3.amazonaws.com/courseware.codeschool.com/try_django/images/treasuregram-horseshoes.png)
+
+[Golden Monkey](https://s3.amazonaws.com/courseware.codeschool.com/try_django/images/monkey_walking.jpg)
+
+[Golden Statue](https://s3.amazonaws.com/courseware.codeschool.com/try_django/images/monkey_sitting.jpg)
+
 ### Static Image Assets
 [static-images.zip](https://s3.amazonaws.com/courseware.codeschool.com/try_django/static-images.zip)
 
