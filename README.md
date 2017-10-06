@@ -6,7 +6,7 @@ https://www.python.org/downloads/
 ## Django Install
 Once Python is installed you can install Django with the command `pip instal django` on the command line.
 To see if django is installed:
-Start a python console by entering on `python` command line. Then
+Start a python console by entering `python` on the command line. Then
 `>>> import django`
 `>>> django.VERSION` and you should see something like `(1, 11, 6, 'final', 0)`
 
