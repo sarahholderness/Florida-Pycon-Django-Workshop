@@ -45,5 +45,12 @@ Start a python console by entering `python` on the command line. Then
 [Slides link](https://s3.amazonaws.com/courseware.codeschool.com/digging_into_django/slides/CodeSchool-DiggingIntoDjango.pdf)
 
 ### HTML - Level 1
+#### Section 1
 [index.html](https://github.com/sarahholderness/Florida-Pycon-Django-Workshop/blob/digging-django-level-1-section-1/Treasuregram/main_app/templates/index.html)
+#### Section 2
 [detail.html](https://github.com/sarahholderness/Florida-Pycon-Django-Workshop/blob/digging-django-level-1-section-2/Treasuregram/main_app/templates/detail.html)
+#### Section 3
+[base.html](https://github.com/sarahholderness/Florida-Pycon-Django-Workshop/blob/digging-django-level-1-section-3/Treasuregram/main_app/templates/base.html)
+[index.html](https://github.com/sarahholderness/Florida-Pycon-Django-Workshop/blob/digging-django-level-1-section-3/Treasuregram/main_app/templates/index.html)
+[detail.html](https://github.com/sarahholderness/Florida-Pycon-Django-Workshop/blob/digging-django-level-1-section-3/Treasuregram/main_app/templates/detail.html)
+
