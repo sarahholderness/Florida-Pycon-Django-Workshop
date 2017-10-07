@@ -22,7 +22,7 @@
         {% for treasure in treasures %}
             <!-- Creating a column for each treasure panel -->
             <div class="col-md-4">
-
+              <a href="/{{treasure.id}}">
               <div class="treasure panel panel-default">
                 <!-- Adding treasure title by username -->
                 <div class="panel-heading">
@@ -37,6 +37,7 @@
                 </div>
 
               </div>
+              </a>
             </div>
 
           <!-- if last column in row -->
