@@ -34,4 +34,21 @@
         {% endfor %}
         </div><br>
 
+        <!-- Adding form for adding new treasures-->
+
+        <div class="treasure panel panel-default">
+          <div class="panel-heading">
+            <h3 class="panel-title">Add Treasure</h3>
+          </div>
+          <div class="panel-body">
+            <form enctype="multipart/form-data" action="post_url/" method="post" >
+              {% csrf_token %}
+              <div class="field-wrapper">
+                {{form.as_p}}
+              </div>
+              <input type="submit" value="Submit" />
+            </form>
+          </div>
+        </div>
+
 {% endblock %}
