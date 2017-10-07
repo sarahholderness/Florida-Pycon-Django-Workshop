@@ -29,6 +29,9 @@ Start a python console by entering `python` on the command line. Then
 
 [Golden Statue](https://s3.amazonaws.com/courseware.codeschool.com/try_django/images/monkey_sitting.jpg)
 
+### HTML - Level 2
+[index.html](https://github.com/sarahholderness/Florida-Pycon-Django-Workshop/blob/level-2-section-3/Treasuregram/main_app/templates/index.html)
+
 ### Static Image Assets
 [static-images.zip](https://s3.amazonaws.com/courseware.codeschool.com/try_django/static-images.zip)
 
@@ -40,3 +43,7 @@ Start a python console by entering `python` on the command line. Then
 ## Digging Into Django
 ### Slides
 [Slides link](https://s3.amazonaws.com/courseware.codeschool.com/digging_into_django/slides/CodeSchool-DiggingIntoDjango.pdf)
+
+### HTML - Level 1
+[index.html](https://github.com/sarahholderness/Florida-Pycon-Django-Workshop/blob/digging-django-level-1-section-1/Treasuregram/main_app/templates/index.html)
+[detail.html](https://github.com/sarahholderness/Florida-Pycon-Django-Workshop/blob/digging-django-level-1-section-2/Treasuregram/main_app/templates/detail.html)
